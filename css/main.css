@@ -35,6 +35,12 @@ h3, h4, h2, h1 {
 	padding-top: 10px;
 }
 
+.top-bar-section ul li > a {
+	font-family: futura-pt, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+}
+
 /* BODY */ 
 
 .button {
