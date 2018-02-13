@@ -75,6 +75,14 @@ figure.hero figcaption {
   	width: 38%;
 }
 
+.hero p {
+	background: rgba(0, 0, 0, 0.6);
+	position: relative; 
+  	left: 35%;
+  	width: 38%;
+  	color: #fff;
+}
+
 /* FOOTER */
 
 footer {
