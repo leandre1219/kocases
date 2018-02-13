@@ -69,14 +69,16 @@ figure.hero figcaption {
 .hero h1 {
 	size: 1rem;
 	color: #fff;
-	background: rgba(0, 0, 0, 0.6);
 	position: relative; 
   	left: 35%;
   	width: 38%;
+  	border-left: solid;
+  	border-width: 1px;
+  	color: #fff;
+  	padding: 4px;
 }
 
 .hero p {
-	background: rgba(0, 0, 0, 0.6);
 	position: relative; 
   	left: 35%;
   	width: 38%;
@@ -116,10 +118,12 @@ footer .columns:last-child {
 	border: 0;
 }
 
-.fa {
+footer i {
+	display: block !important;
+}
+
+footer .fa {
 	font-size: 3.5rem;
-	width: 50%;
 	text-align: center;
 	color: #000;
-	display: inline-block;
 }
