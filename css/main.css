@@ -55,6 +55,13 @@ h3, h4, h2, h1 {
 	border-style: none;
 }
 
+.panel h5 {
+	font-family: futura-pt, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 1.25rem;
+}
+
 figure.hero {
  	margin: 0;
  	position: relative;
