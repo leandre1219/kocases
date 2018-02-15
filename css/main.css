@@ -74,6 +74,7 @@ figure.hero figcaption {
 	size: 1rem;
 	color: #fff;
 	position: relative; 
+	top: 70%;
   	left: 5%;
   	width: 38%;
   	color: #fff;
@@ -83,6 +84,7 @@ figure.hero figcaption {
 
 .hero p {
 	position: relative; 
+	top: 70%;
   	left: 5%;
   	width: 38%;
   	color: #fff;
@@ -98,6 +100,10 @@ main {
 	color: #cc3438;
 }
 
+.lto a {
+	color: #cc3438;
+}
+
 .gotw {
 	background-color: #15699a;
 }
@@ -109,13 +115,13 @@ main {
 
 footer {
 	background-color: #f0f0f0;
-	color: #fff;
+	color: #323333;
 	height: auto;
 	padding: .5rem;
 }
 
 footer p {
-	color: #fff;
+	color: #323333;
 	font-size: 1rem;
 }
 
@@ -140,22 +146,22 @@ footer i {
 footer .fa {
 	font-size: 3.5rem;
 	text-align: center;
-	color: #000;
+	color: #323333;
 }
 
 footer .panel {
 	background-color: #f0f0f0;
-	color: #000;
+	color: #323333;
 }
 
 footer .panel h3 {
-	color: #000;
+	color: #323333;
 }
 
 footer .panel p {
-	color: #000;
+	color: #323333;
 }
 
 footer .panel h4 {
-	color: #000;
+	color: #323333;
 }
