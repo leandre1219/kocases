@@ -39,6 +39,7 @@ h3, h4, h2, h1 {
 	font-family: futura-pt, sans-serif;
 	font-style: normal;
 	font-weight: 300;
+	font-size: .75rem;
 }
 
 /* BODY */ 
@@ -73,21 +74,37 @@ figure.hero figcaption {
 	size: 1rem;
 	color: #fff;
 	position: relative; 
-  	left: 35%;
+  	left: 5%;
   	width: 38%;
-  	border-left: solid;
-  	border-width: 1px;
   	color: #fff;
   	padding: 4px;
+  	background: rgba(0, 0, 0, 0.4);
 }
 
 .hero p {
 	position: relative; 
-  	left: 35%;
+  	left: 5%;
   	width: 38%;
   	color: #fff;
+  	background: rgba(0, 0, 0, 0.4);
 }
 
+main { 
+	padding: 2rem; 
+}
+
+.lto span {
+	font-weight: 100;
+	color: #cc3438;
+}
+
+.gotw {
+	background-color: #15699a;
+}
+
+.gotw h1 {
+	color: #fff;
+}
 /* FOOTER */
 
 footer {
@@ -98,7 +115,7 @@ footer {
 }
 
 footer p {
-	color: #000;
+	color: #fff;
 	font-size: 1rem;
 }
 
@@ -123,5 +140,22 @@ footer i {
 footer .fa {
 	font-size: 3.5rem;
 	text-align: center;
+	color: #000;
+}
+
+footer .panel {
+	background-color: #f0f0f0;
+	color: #000;
+}
+
+footer .panel h3 {
+	color: #000;
+}
+
+footer .panel p {
+	color: #000;
+}
+
+footer .panel h4 {
 	color: #000;
 }
