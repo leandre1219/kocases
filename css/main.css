@@ -119,6 +119,9 @@ main {
 	color: #fff;
 }
 /* FOOTER */
+aside {
+	margin-bottom: 2rem;
+}
 
 footer {
 	background-color: #f0f0f0;
